@@ -75,6 +75,8 @@ def to_excel(dfs, source_type='table'):
 # Main function for the Streamlit app
 def main():
     st.title("Web & PDF Scraper for Tabular Data")
+    st.write("=======================")
+    st.write("Developed By Er Ashish K.C. (Khatri)")
     
     # Option for users to choose scraping method
     option = st.selectbox("Select the data source", ["Web Page (URL)", "PDF File"])
