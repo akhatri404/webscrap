@@ -1,0 +1,10 @@
+pandas
+streamlit
+requests 
+beautifulsoup4 
+lxml 
+openpyxl 
+xlsxwriter
+pdfplumber 
+tabula-py
+
